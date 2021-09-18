@@ -1,0 +1,24 @@
+body {
+    background-color: #E0C097;
+    text-align: center;
+}
+a {
+    padding: 10px;
+}
+nav {
+    background-color: #B85C38;
+}
+header {
+    color: #5C3D2E;
+}
+.heading {
+    color: #2D2424; 
+}
+.productlist {
+    margin-right: 50px;
+    list-style-position: inside
+}
+footer {
+    background-color: #B85C38;
+    margin-top: 400px;
+}
